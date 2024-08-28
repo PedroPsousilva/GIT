@@ -57,3 +57,4 @@ class AppController {
 
 //Exportando a instancia de Express configurada, para que seja acessada em outros arquivos
 module.exports = new AppController().express;
+//dd
